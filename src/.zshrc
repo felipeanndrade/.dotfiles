@@ -109,6 +109,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
 alias zshconfig="nvim $HOME/.zshrc"
 alias viconfig="nvim $HOME/.config/nvim/init.vim"
 alias tmuxconfig="nvim $HOME/.tmux.conf"
